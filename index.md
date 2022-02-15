@@ -1,6 +1,7 @@
 ## Welcome to Zoma
 
-![img](docs/assets/zoma-logo.png)
+
+![imgshow](https://github.com/ncwillis/zoma-web/blob/gh-pages/docs/assets/zoma-logo.png)
 
 You can use the [editor on GitHub](https://github.com/ncwillis/zoma-web/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
